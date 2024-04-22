@@ -2,6 +2,10 @@
 
 A curated and accurate list / database of domain names used to create temporary and disposable email addresses.
 
+Please ⭐ STAR ⭐ this repo is you find it useful. It helps to gain more exposure and receive more contributions 🙏.
+
+---
+
 Total Disposable Email Domains: **513**
 
 Updated on: **April 22, 2024**.
