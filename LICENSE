@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 WebSniffer
+Copyright (c) 2024 [WebSniffer](https://websniffer.com/).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
