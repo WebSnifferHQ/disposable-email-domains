@@ -2,6 +2,10 @@
 
 A curated and accurate list / database of domain names used to create temporary and disposable email addresses.
 
+Total Disposable Email Domains: **513**
+
+Updated on: **April 22, 2024**.
+
 The list is sorted alphabetically.
 
 - 0815.ru
