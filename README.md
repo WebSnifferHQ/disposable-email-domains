@@ -8,11 +8,13 @@ Check out also our [list of free public email domains](https://github.com/WebSni
 
 ---
 
-Total Disposable Email Domains: **513**
+Domains: **513**
 
-Updated on: **April 22, 2024**.
+Update: **April 22, 2024**
 
 The list is sorted alphabetically.
+
+---
 
 - 0815.ru
 - 0cd.cn
