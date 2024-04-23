@@ -4,6 +4,8 @@ A curated and accurate list / database of domain names used to create temporary 
 
 Please ⭐ STAR ⭐ this repo is you find it useful. It helps to gain more exposure and receive more contributions 🙏.
 
+Check out also our [list of free public email domains](https://github.com/WebSnifferHQ/free-public-email-domains).
+
 ---
 
 Total Disposable Email Domains: **513**
