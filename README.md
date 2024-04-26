@@ -1,4 +1,4 @@
-# Temporary and Disposable Email Domains
+# Temporary, Throwaway and Disposable Email Domains
 
 A curated and accurate list / database of domain names used to create temporary, throwaway and disposable email addresses.
 
