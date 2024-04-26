@@ -1,6 +1,6 @@
 # Temporary and Disposable Email Domains
 
-A curated and accurate list / database of domain names used to create temporary and disposable email addresses.
+A curated and accurate list / database of domain names used to create temporary, throwaway and disposable email addresses.
 
 Please ⭐ STAR ⭐ this repo is you find it useful. It helps to gain more exposure and receive more contributions 🙏.
 
