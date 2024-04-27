@@ -14,4 +14,4 @@ Update: **April 26, 2024**
 
 The list is sorted alphabetically.
 
-Access the [list in plain text format](https://github.com/WebSnifferHQ/disposable-email-domains/blob/main/list.txt).
+Access the [list in plain text format](https://github.com/WebSnifferHQ/disposable-email-domains/blob/main/disposable-email-domains.txt).
