@@ -8,9 +8,9 @@ Check out also our [list of public email domains](https://github.com/WebSnifferH
 
 ---
 
-Domains: **526**
+Domains: **578**
 
-Update: **April 26, 2024**
+Update: **May 8, 2024**
 
 The list is sorted alphabetically.
 
